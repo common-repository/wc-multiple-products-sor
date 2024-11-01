@@ -1,0 +1,6 @@
+.selected {
+	background: aquamarine !important;
+}
+.ui-sortable-handle {
+	cursor: move;
+}
